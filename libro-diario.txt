@@ -1,0 +1,81 @@
+# ElectroServicios S.A.
+## Libro Diario
+### Mayo 2023
+(Expresado en dólares)
+
+| Fecha | Detalle | Debe | Haber |
+|-------|---------|------|-------|
+| 01/05/2023 | **-1-** | | |
+| | Caja | 4,000.00 | |
+| | Bancos | 10,000.00 | |
+| | Inventario de Productos | 8,000.00 | |
+| | Mobiliario y equipo | 15,000.00 | |
+| | Equipos de Computación | 6,000.00 | |
+| | Proveedores | | 3,500.00 |
+| | Documentos por pagar | | 2,000.00 |
+| | Capital | | 37,500.00 |
+| | *v/r Estado de situación inicial* | | |
+| 02/05/2023 | **-2-** | | |
+| | Inventario de Productos | 2,875.00 | |
+| | Caja | | 1,437.50 |
+| | Proveedores | | 1,437.50 |
+| | *v/r Compra de 10 unidades Producto A a $210 y 5 unidades Producto B a $155. Pago 50% efectivo y 50% crédito.* | | |
+| 05/05/2023 | **-3-** | | |
+| | Caja | 3,550.00 | |
+| | Ventas | | 3,550.00 |
+| | *v/r Venta al contado de 8 unidades Producto A a $350 y 3 unidades Producto B a $250* | | |
+| 05/05/2023 | **-4-** | | |
+| | Costo de Ventas | 2,065.00 | |
+| | Inventario de Productos | | 2,065.00 |
+| | *v/r Registro del costo de la mercadería vendida* | | |
+| 10/05/2023 | **-5-** | | |
+| | Seguros Pagados por Anticipado | 500.00 | |
+| | Caja | | 500.00 |
+| | *v/r Contratación de seguro anual* | | |
+| 12/05/2023 | **-6-** | | |
+| | Gasto Arriendo | 1,200.00 | |
+| | Caja | | 1,200.00 |
+| | *v/r Pago de alquiler del local comercial* | | |
+| 15/05/2023 | **-7-** | | |
+| | Cuentas por Cobrar | 1,800.00 | |
+| | Ventas | | 1,800.00 |
+| | *v/r Venta a crédito de 5 unidades del Producto A a $360 cada una* | | |
+| 15/05/2023 | **-8-** | | |
+| | Costo de Ventas | 1,050.00 | |
+| | Inventario de Productos | | 1,050.00 |
+| | *v/r Registro del costo de la mercadería vendida a crédito* | | |
+| 18/05/2023 | **-9-** | | |
+| | Proveedores | 1,000.00 | |
+| | Caja | | 1,000.00 |
+| | *v/r Pago parcial de la deuda con proveedores* | | |
+| 20/05/2023 | **-10-** | | |
+| | Gasto Sueldos | 3,100.00 | |
+| | Gasto Aporte Patronal | 376.65 | |
+| | Bancos | | 2,807.05 |
+| | IESS por Pagar - Aporte Personal | | 292.95 |
+| | IESS por Pagar - Aporte Patronal | | 376.65 |
+| | *v/r Registro del rol de pagos mensual* | | |
+| 20/05/2023 | **-11-** | | |
+| | Gasto Fondos de Reserva | 258.23 | |
+| | Fondos de Reserva por Pagar | | 258.23 |
+| | *v/r Registro de los fondos de reserva* | | |
+| 25/05/2023 | **-12-** | | |
+| | Caja | 1,500.00 | |
+| | Cuentas por Cobrar | | 1,500.00 |
+| | *v/r Cobro de una venta a crédito anterior* | | |
+| 27/05/2023 | **-13-** | | |
+| | Gasto Depreciación Mobiliario y Equipo | 125.00 | |
+| | Depreciación Acumulada Mobiliario y Equipo | | 125.00 |
+| | *v/r Depreciación mensual del mobiliario y equipo (10% anual)* | | |
+| 27/05/2023 | **-14-** | | |
+| | Gasto Depreciación Equipos de Computación | 100.00 | |
+| | Depreciación Acumulada Equipos de Computación | | 100.00 |
+| | *v/r Depreciación mensual de equipos de computación (20% anual)* | | |
+| 30/05/2023 | **-15-** | | |
+| | Gasto Publicidad | 600.00 | |
+| | Caja | | 600.00 |
+| | *v/r Pago del servicio de publicidad* | | |
+| 31/05/2023 | **-16-** | | |
+| | Gasto Seguros | 41.67 | |
+| | Seguros Pagados por Anticipado | | 41.67 |
+| | *v/r Amortización mensual del seguro anual ($500/12)* | | |
